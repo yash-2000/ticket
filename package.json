@@ -1,0 +1,19 @@
+{
+  "name": "nodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yash-2000/ticket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yash-2000/ticket/issues"
+  },
+  "homepage": "https://github.com/yash-2000/ticket#readme"
+}
